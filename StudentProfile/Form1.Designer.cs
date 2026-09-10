@@ -50,7 +50,7 @@
             this.lblStudentContactNumber.Name = "lblStudentContactNumber";
             this.lblStudentContactNumber.Size = new System.Drawing.Size(265, 22);
             this.lblStudentContactNumber.TabIndex = 1;
-            this.lblStudentContactNumber.Text = "Student Contact - 09171234567";
+            this.lblStudentContactNumber.Text = "Student Contact - 09123456789";
             // 
             // Form1
             // 
